@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "name": "Mishu Jamod",
+      "password": "123",
+      "bithday": "2023-09-26",
+      "Gender": "Female",
+      "email": "Mishu@gmail.com",
+      "phone": "9601722543",
+      "role": 1,
+      "id": 1
+    },
+    {
+      "name": "Parul Jamod ",
+      "password": "456",
+      "bithday": "2023-09-01",
+      "Gender": "Female",
+      "email": "pchauhan5088@gmail.com",
+      "phone": "6351643420",
+      "role": 2,
+      "id": 2
+    },
+    {
+      "name": "Karan Patel",
+      "password": "789",
+      "bithday": "2023-09-17",
+      "Gender": "Male",
+      "email": "Karan@gmail.com",
+      "phone": "sccsaxsac",
+      "role": 2,
+      "id": 3
+    },
+    {
+      "name": "Krishna Patel",
+      "password": "654",
+      "bithday": "2023-10-01",
+      "Gender": "Female",
+      "email": "Krishna@gmail.com",
+      "phone": "9820420420",
+      "role": 2,
+      "id": 4
+    },
+    {
+      "name": "Bhavna Jamod",
+      "password": "Bhavna#55",
+      "bithday": "2023-09-16",
+      "Gender": "Female",
+      "email": "Bhavna Jamod",
+      "phone": "sscsc",
+      "role": 2,
+      "id": 5
+    },
+    {
+      "name": "Bhavna Jamod",
+      "password": "741",
+      "bithday": "2023-09-11",
+      "Gender": "Female",
+      "email": "bhavna@gmail.com",
+      "phone": "98998989898",
+      "role": 2,
+      "id": 6
+    },
+    {
+      "name": "dgsg",
+      "password": "ssfasf",
+      "bithday": "2023-09-09",
+      "Gender": "Female",
+      "email": "Mishu@gmail.com",
+      "phone": "sfaf",
+      "role": 2,
+      "id": 7
+    },
+    {
+      "name": "Ajay Mishra ",
+      "password": "741",
+      "bithday": "2023-09-07",
+      "Gender": "Female",
+      "email": "Mishu@gmail.com",
+      "phone": "54",
+      "role": 2,
+      "id": 8
+    }
+  ]
+}
